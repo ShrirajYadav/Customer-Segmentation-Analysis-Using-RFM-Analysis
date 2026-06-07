@@ -84,13 +84,13 @@ Business Insights & Recommendations
 customer-segmentation-rfm/
 │
 ├── data/
-│   └── online_retail.csv          # Raw dataset
+│   └── Online Retail.xlsx          # Raw dataset
 │
 ├── notebooks/
-│   └── rfm_analysis.ipynb         # Main analysis notebook
+│   └── customer_segmentation.ipynb        # Main analysis notebook
 │
 ├── Images/
-│   └── *.png                      # Charts and plots
+│   └──                       # Charts and plots
 │
 └── README.md
 ```
